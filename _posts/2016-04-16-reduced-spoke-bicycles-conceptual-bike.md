@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-03T23:59:56.487Z'
+datePublished: '2016-07-04T00:14:02.570Z'
 sourcePath: _posts/2016-04-16-reduced-spoke-bicycles-conceptual-bike.md
 inFeed: true
 isBasedOnUrl: 'http://www.trendhunter.com/trends/conceptual-bike'
@@ -17,8 +17,8 @@ keywords:
   - opts
 related: []
 author: []
-dateModified: '2016-07-03T23:59:56.024Z'
-title: 'Reduced Spoke Bicycles : Conceptual Bike'
+dateModified: '2016-07-04T00:14:01.440Z'
+title: 'BIKES MINIMALISTAS DA SPOKE: CONCEITUAIS'
 app_links: []
 publisher:
   url: 'http://www.trendhunter.com'
@@ -26,9 +26,9 @@ publisher:
   favicon: 'http://cdn.trendhunterstatic.com/favicon.ico'
   domain: www.trendhunter.com
 description: >-
-  Conceptual Bike - Ion Lucin has simplified the design of a standard
-  two-wheeler with his conceptual bike Baik that opts for three-spoked wheels, a
-  limited use of lin...
+  As bicicletas conceituais possuem quase nada - Ion Lucin simplificou o design
+  de uma bike padrão duas catracas introduzindo a sua Baik conceitual e optando
+  por três "aros" de roda, e uso limitado de  limited use of lin...
 inLanguage: en
 inNav: false
 starred: false
@@ -36,4 +36,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Reduced Spoke Bicycles : Conceptual Bike</h1><p>Conceptual Bike - Ion Lucin has simplified the design of a standard two-wheeler with his conceptual bike Baik that opts for three-spoked wheels, a limited use of lin...</p><img src="http://cdn.trendhunterstatic.com/thumbs/conceptual-bike.jpeg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11d821ce44263ec917e4ecde74cfe3ebb341c975.jpg" /><h1>BIKES MINIMALISTAS DA SPOKE: CONCEITUAIS</h1><p>As bicicletas conceituais possuem quase nada - Ion Lucin simplificou o design de uma bike padrão duas catracas introduzindo a sua Baik conceitual e optando por três "aros" de roda, e uso limitado de limited use of lin...</p></article>
