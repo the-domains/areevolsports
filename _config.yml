@@ -1,4 +1,3 @@
-layout_spectrum: 0.1271813432686031
 typography_spectrum: 0.9191097489092499
 color:
   brandStrength: 0.37011924805119634
@@ -6,9 +5,16 @@ color:
   saturation: 0.46648904983885586
   rhythmicContrast: 0.698356629582122
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+layout_spectrum: 0.1271813432686031
+author:
+  name: Vladimir Cavalcante
+  email: vladimir.cavalcante@areevolsports.com.br
+  url: www.areevolsports.com.br
 name: areevolsports
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf0a753d-d23b-4567-b013-9f1063e00967.png
