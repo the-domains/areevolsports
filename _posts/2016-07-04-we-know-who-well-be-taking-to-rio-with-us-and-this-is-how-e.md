@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-04T01:37:44.194Z'
+datePublished: '2016-07-04T15:37:11.429Z'
 sourcePath: >-
   _posts/2016-07-04-we-know-who-well-be-taking-to-rio-with-us-and-this-is-how-e.md
 isBasedOnUrl: 'https://www.instagram.com/p/BGacm60oRgC/?taken-by=weareeaton'
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-04T01:37:40.538Z'
+dateModified: '2016-07-04T15:37:10.520Z'
 title: ''
 app_links:
   - url: 'instagram://media?id=1268452064860641282'
@@ -30,7 +30,7 @@ publisher:
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
 description: ''
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
