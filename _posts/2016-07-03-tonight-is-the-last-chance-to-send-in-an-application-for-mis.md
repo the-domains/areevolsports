@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-03T23:09:56.456Z'
+datePublished: '2016-07-04T00:00:09.359Z'
 sourcePath: >-
   _posts/2016-07-03-tonight-is-the-last-chance-to-send-in-an-application-for-mis.md
 isBasedOnUrl: 'https://www.instagram.com/p/BEUfMD2gXce/?taken-by=arnayr&hl=en'
@@ -9,7 +9,7 @@ author:
   - name: arnayr
     url: 'https://www.instagram.com/arnayr'
     avatar: {}
-dateModified: '2016-07-03T23:09:52.157Z'
+dateModified: '2016-07-04T00:00:08.666Z'
 title: 'ARNA: A RAINHA DO GELO E DA EUROCOPA 2016'
 app_links:
   - url: 'instagram://media?id=1230745766390232862'
@@ -32,8 +32,17 @@ publisher:
   favicon: >-
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
   domain: www.instagram.com
-description: Fui assistir ao filme “O Caçador e a Rainha do Gelo”
-starred: false
+description: >-
+  Fui assistir ao filme “O Caçador e a Rainha do Gelo”, e a magia gelada deixou
+  cicatrizes em todos. Nesse 4 de Julho vai chegando quase ao fim a Eurocopa. A
+  maior surpresa reservada poderia ser a seleção do país de Gales, do bravo
+  Gale, não fosse a Islândia. Essa mesma, que honrou todos os cidadãos dignos
+  desse nome com as manifestações que em poucos dias deram um gancho definitivo
+  ao seu maior representante, após acusações - infundadas ou não de negócios
+  espertos com offshores. O lugar é pequeno e frio. Um exemplo para o mundo?
+  Impossível. Não é representativo do inferno que se espalha por toda parte. Mas
+  alivia meus olhos. Espero que também alivie aos seus.
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
@@ -45,4 +54,4 @@ _type: Photograph
 
 ### ARNA: A RAINHA DO GELO E DA EUROCOPA 2016
 
-Fui assistir ao filme "O Caçador e a Rainha do Gelo"
+Fui assistir ao filme "O Caçador e a Rainha do Gelo", e a magia gelada deixou cicatrizes em todos. Nesse 4 de Julho vai chegando quase ao fim a Eurocopa. A maior surpresa reservada poderia ser a seleção do país de Gales, do bravo Gale, não fosse a Islândia. Essa mesma, que honrou todos os cidadãos dignos desse nome com as manifestações que em poucos dias deram um gancho definitivo ao seu maior representante, após acusações - infundadas ou não de negócios espertos com offshores. O lugar é pequeno e frio. Um exemplo para o mundo? Impossível. Não é representativo do inferno que se espalha por toda parte. Mas alivia meus olhos. Espero que também alivie aos seus.
