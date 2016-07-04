@@ -19,11 +19,11 @@ app_links: []
 isBasedOnUrl: >-
   http://espn.uol.com.br/noticia/545670_roma-estuda-oferta-para-contratar-gabriel-jesus-diz-imprensa-italiana
 title: 'Roma estuda oferta para contratar Gabriel Jesus, diz imprensa italiana'
-datePublished: '2016-07-03T23:59:52.302Z'
-dateModified: '2016-07-03T23:59:51.817Z'
+datePublished: '2016-07-03T23:59:37.449Z'
+dateModified: '2016-07-03T23:59:15.815Z'
+starred: false
 sourcePath: >-
   _posts/2016-07-03-roma-estuda-oferta-para-contratar-gabriel-jesus-diz-imprens.md
-starred: true
 inFeed: true
 hasPage: false
 inNav: false
