@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-04T00:00:09.359Z'
+datePublished: '2016-07-04T00:34:40.590Z'
 sourcePath: >-
   _posts/2016-07-03-tonight-is-the-last-chance-to-send-in-an-application-for-mis.md
 isBasedOnUrl: 'https://www.instagram.com/p/BEUfMD2gXce/?taken-by=arnayr&hl=en'
@@ -9,7 +9,7 @@ author:
   - name: arnayr
     url: 'https://www.instagram.com/arnayr'
     avatar: {}
-dateModified: '2016-07-04T00:00:08.666Z'
+dateModified: '2016-07-04T00:34:38.416Z'
 title: 'ARNA: A RAINHA DO GELO E DA EUROCOPA 2016'
 app_links:
   - url: 'instagram://media?id=1230745766390232862'
@@ -42,7 +42,7 @@ description: >-
   espertos com offshores. O lugar é pequeno e frio. Um exemplo para o mundo?
   Impossível. Não é representativo do inferno que se espalha por toda parte. Mas
   alivia meus olhos. Espero que também alivie aos seus.
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
