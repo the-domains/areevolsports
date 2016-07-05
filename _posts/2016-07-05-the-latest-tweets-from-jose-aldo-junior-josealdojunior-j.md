@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-05T07:57:32.674Z'
+datePublished: '2016-07-05T08:01:51.711Z'
 sourcePath: _posts/2016-07-05-the-latest-tweets-from-jose-aldo-junior-josealdojunior-j.md
 isBasedOnUrl: >-
   https://twitter.com/josealdojunior?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
@@ -15,29 +15,9 @@ keywords:
   - assistir
   - cinemas
 related: []
-author:
-  - avatar:
-      src: 'https://pbs.twimg.com/media/CluzeJ1WQAATj7J.jpg'
-      width: 800
-      height: 800
-      colors:
-        - - 19
-          - 10
-          - 11
-        - - 219
-          - 180
-          - 133
-        - - 102
-          - 68
-          - 57
-        - - 66
-          - 44
-          - 35
-        - - 143
-          - 102
-          - 85
-dateModified: '2016-07-05T07:57:28.224Z'
-title: ''
+author: []
+dateModified: '2016-07-05T08:01:46.468Z'
+title: WANDERLEI SILVA
 app_links:
   - path: >-
       twitter/user?screen_name=josealdojunior&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Eprofile
