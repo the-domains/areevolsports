@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-11T02:00:50.335Z'
+datePublished: '2016-07-11T02:02:08.125Z'
 sourcePath: _posts/2016-07-05-the-latest-tweets-from-jose-aldo-junior-josealdojunior-j.md
 isBasedOnUrl: >-
   https://twitter.com/josealdojunior?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
@@ -16,8 +16,8 @@ keywords:
   - cinemas
 related: []
 author: []
-dateModified: '2016-07-05T10:21:22.681Z'
-title: NOSSOS GLADIADORES
+dateModified: '2016-07-11T02:01:54.506Z'
+title: DE VOLTA AO LAR
 app_links:
   - path: >-
       twitter/user?screen_name=josealdojunior&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Eprofile
@@ -47,7 +47,7 @@ _context: 'http://schema.org'
 _type: Comment
 
 ---
-# NOSSOS GLADIADORES
+# DE VOLTA AO LAR
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9e082a6-5d74-4132-8917-03ff5bee60fd.jpg)
 
 > The latest Tweets from Jose Aldo Junior (@josealdojunior). Jose Aldo Jr. UFC Featherweight. 25-2 (14 KO's) https://t.co/wigbyXj4VB
