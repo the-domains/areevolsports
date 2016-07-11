@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-11T02:03:47.558Z'
+datePublished: '2016-07-11T02:17:57.291Z'
 sourcePath: _posts/2016-07-05-the-latest-tweets-from-jose-aldo-junior-josealdojunior-j.md
 isBasedOnUrl: >-
   https://twitter.com/josealdojunior?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
@@ -16,7 +16,7 @@ keywords:
   - cinemas
 related: []
 author: []
-dateModified: '2016-07-11T02:03:05.485Z'
+dateModified: '2016-07-11T02:03:48.876Z'
 title: DE VOLTA AO LAR
 app_links:
   - path: >-
@@ -39,7 +39,8 @@ description: >-
   reverenciar os que abriram as portas, pioneiros sem referência sobre um futuro
   incerto. Por esses dias ainda tem mais dele por aí, só que não na ficção. Na
   vida real, dois cintorões de volta e um combate do Spider que manteve o
-  respeito 
+  respeito, mesmo com o camarada sendo preparado para a luta dois dias antes
+  dela. Só um cara muito especial. Teve que ser ovacionado!
 inLanguage: en
 starred: false
 inFeed: true
@@ -55,4 +56,4 @@ _type: Comment
 > The latest Tweets from Jose Aldo Junior (@josealdojunior). Jose Aldo Jr. UFC Featherweight. 25-2 (14 KO's) https://t.co/wigbyXj4VB
 
 A indicação de um amigo da velha guarda, cinéfilo de carteirinha, foi para assistir "Punhos de Campeão (1949)", um filme trágico que mostrou o lado underground do boxe profissional. Quanto ao nosso filme, avaliou-o cinematograficamente como dentro da média de um filme de perfil comercial. É muito difícil alcançar a dimensão do que José Aldo representa para o Brasil e uma legião de jovens em busca de seus sonhos. Impulsionar um talento passa por reverenciar os que abriram as portas, pioneiros sem referência sobre um futuro incerto. Por esses dias ainda tem mais dele por aí, só que não na ficção.  
-Na vida real, dois cintorões de volta e um combate do Spider que manteve o respeito
+Na vida real, dois cintorões de volta e um combate do Spider que manteve o respeito, mesmo com o camarada sendo preparado para a luta dois dias antes dela. Só um cara muito especial. Teve que ser ovacionado!
